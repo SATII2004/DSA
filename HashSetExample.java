@@ -39,5 +39,12 @@ public class HashSetExample {
         // Clearing all elements
         numbers.clear();
         System.out.println("HashSet after clearing: " + numbers);
+
+        System.out.println("HashSet after clearing: " + numbers);
+        System.out.println("HashSet after clearing: " + numbers);
+        System.out.println("HashSet after clearing: " + numbers);
+        System.out.println("HashSet after clearing: " + numbers);
+        System.out.println("HashSet after clearing: " + numbers);
+
     }
 }
