@@ -40,7 +40,6 @@ public class HashSetExample {
         numbers.clear();
         System.out.println("HashSet after clearing: " + numbers);
 
-        System.out.println("HashSet after clearing: " + nu
 
     }
 }
